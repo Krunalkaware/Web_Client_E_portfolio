@@ -1,2 +1,12 @@
-# Web_Client_E_portfolio
-web client
+assignments/
+├── assignment_3-_forms/
+│   ├── basic/
+│   ├── intermediate/
+│   └── advanced/
+│
+├── assignment_4_html5/
+│   ├── basic/
+│   ├── intermediate/
+│   └── advanced/
+│
+└── README.md
